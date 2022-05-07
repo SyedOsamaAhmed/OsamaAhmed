@@ -10,10 +10,15 @@ _web deve;opment
 
 #Skills:
 _React
+
 _React Native
+
 _Javascript
+
 _Node Js
+
 _Express js
+
 _C++
 
 

@@ -7,7 +7,7 @@ _mobile development
 
 _AI
 
-_web deve;opment
+_web development
 
 
 #Skills:

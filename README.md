@@ -4,7 +4,9 @@ Hello, Iam Syed Osama Ahmed.I complete my bachelors degree in computer science i
 
 #Interests:
 _mobile development
+
 _AI
+
 _web deve;opment
 
 

@@ -1,27 +1,27 @@
 #Introduction:
 
-Hello, Iam Syed Osama Ahmed.I complete my bachelors degree in computer science in september 2021.Iam passionate about learning new things and solving problems.Iam passionate mobile and web developer dedicated and fast learner.Currently learning new things and exploring further tech and working towards becoming full stack developer.
+Hello, Iam Syed Osama Ahmed.I completed my bachelors degree in computer science in September 2021.Iam passionate about learning new things and solving problems.Iam passionate mobile and web developer dedicated and fast learner.Currently learning new things and exploring further tech and working towards becoming full stack developer.
 
 #Interests:
 
 
-_mobile development
+* Mobile Development
 
-_web development
+* Web Development
 
 
 #Skills:
 
-_React
+* React
 
-_React Native
+* React Native
 
-_Javascript
+* JavaScript
 
-_Node Js
+* Node.js
 
-_Express js
+* Express.js
 
-_C++
+* C++
 
 

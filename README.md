@@ -24,4 +24,6 @@ Hello, Iam Syed Osama Ahmed. I completed my bachelors degree in _Computer Scienc
 
 * C++
 
+* Typescript
+
 

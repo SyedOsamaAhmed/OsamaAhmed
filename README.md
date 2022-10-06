@@ -7,14 +7,18 @@ Hello, I am Syed Osama Ahmed. I completed my bachelors degree in _Computer Scien
 
 * Mobile Development
 
-* Web Development
-
 
 # Skills:
 
 * React
 
 * React Native
+
+* Native Base
+
+* Axios
+
+* Typescript
 
 * JavaScript
 
@@ -24,6 +28,8 @@ Hello, I am Syed Osama Ahmed. I completed my bachelors degree in _Computer Scien
 
 * C++
 
-* Typescript
+
+
+
 
 

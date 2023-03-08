@@ -4,7 +4,6 @@ Hello, I am Osama , I like learning new things and solving problems. I am passio
 
 # Interests:
 
-
 * Mobile Development
 
 
@@ -26,7 +25,9 @@ Hello, I am Osama , I like learning new things and solving problems. I am passio
 
 * Express.js
 
-* C++
+* flutter
+
+* dart
 
 
 
